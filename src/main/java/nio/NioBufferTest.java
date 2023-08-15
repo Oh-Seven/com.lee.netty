@@ -3,7 +3,9 @@ package nio;
 
 import java.nio.IntBuffer;
 
+
 public class NioBufferTest {
+
     public static void main(String[] args) {
         IntBuffer intBuffer = IntBuffer.allocate(5);
 
